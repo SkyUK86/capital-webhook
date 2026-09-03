@@ -7,7 +7,7 @@ app = FastAPI()
 
 CAPITAL_API_URL = "https://demo-api-capital.backend-capital.com/api/v1"
 
-API_KEY = os.getenv("CAPITAL_API_KEY", "54mYfOiT9tKlFjld")
+API_KEY = os.getenv("CAPITAL_API_KEY", "54mYfOiT9tKIFjld")
 IDENTIFIER = os.getenv("CAPITAL_IDENTIFIER", "switchgameconsolebg@gmail.com")
 PASSWORD = os.getenv("CAPITAL_PASSWORD", "632189pP!")
 
